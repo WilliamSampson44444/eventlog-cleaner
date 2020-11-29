@@ -3,6 +3,7 @@
 :: Updated on: May 13th 2017
 :: Tutorial: https://www.tenforums.com/tutorials/16588-clear-all-event-logs-event-viewer-windows.html
 
+:: New updates by William Sampson, December 2020
 
 @echo off
 
